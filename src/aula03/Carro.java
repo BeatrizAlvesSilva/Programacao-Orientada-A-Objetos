@@ -1,6 +1,6 @@
 package aula03;
 
-public class carro {
+public class Carro {
 	String modelo;
 	String marca;
 	int ano;

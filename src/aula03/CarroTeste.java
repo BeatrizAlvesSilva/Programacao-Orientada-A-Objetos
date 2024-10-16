@@ -1,11 +1,11 @@
 package aula03;
 
-public class carroTeste {
+public class CarroTeste {
 	public static void main(String[] args) {
 		// instanciação de objetos da classe carro = criando novos carros
-		carro carro1 = new carro();
-		carro carro2 = new carro();
-		carro carro3 = new carro();
+		Carro carro1 = new Carro();
+		Carro carro2 = new Carro();
+		Carro carro3 = new Carro();
 		
 		// atribuição de valores para os atributos de cada carro
 		carro1.modelo = "458 Italia";
