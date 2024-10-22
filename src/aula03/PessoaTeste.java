@@ -34,5 +34,11 @@ public class PessoaTeste {
 	System.out.println("Nome: " + pessoa3.nome);
 	System.out.println("Idade: " + pessoa3.idade);
 	System.out.println("Peso: " + pessoa3.peso);
+	System.out.println();
+	
+	pessoa1.andar();
+	pessoa1.falar();
+	pessoa1.correr();
+	
 	}
 }

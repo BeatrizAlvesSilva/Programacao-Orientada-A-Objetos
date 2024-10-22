@@ -49,5 +49,13 @@ public class CarroTeste {
 		System.out.println("Ano: " + carro3.ano);
 		System.out.println("Placa: " + carro3.placa);
 		System.out.println("Cor: " + carro3.cor);
+		System.out.println();
+			
+		// invocação de método 
+		carro1.ligar();
+	    carro1.acelerar();
+	    carro1.frear();
+	    carro1.desligar();
+		
 	}
 }

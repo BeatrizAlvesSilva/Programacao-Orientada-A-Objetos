@@ -8,15 +8,15 @@ public class Carro {
 	String cor;
 	
 	public void ligar() {
-		
-	}
-	public void desligar() {
-		
-	}
-	public void acelerar() {
-	
-	}
-	public void frear() {
-	
-	}
+        System.out.println(modelo + " está ligando.");
+    }
+    public void desligar() {
+        System.out.println(modelo + " está desligando.");
+    }
+    public void acelerar() {
+        System.out.println(modelo + " está acelerando.");
+    }
+    public void frear() {
+        System.out.println(modelo + " está freando.");
+    }
 }
