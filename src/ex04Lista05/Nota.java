@@ -1,5 +1,6 @@
 package ex04Lista05;
 
+// classe que representa a nota de um aluno
 public class Nota {
 	private float nota;
 
